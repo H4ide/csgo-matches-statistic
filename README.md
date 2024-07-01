@@ -26,7 +26,7 @@ To run the notebook, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/csgo-matches-analysis.git
+    git clone https://github.com/h4ide/csgo-matches-analysis.git
     ```
 2. **Navigate to the project directory:**
     ```sh
