@@ -14,35 +14,35 @@ Here, we perform exploratory data analysis (EDA) to uncover patterns and insight
 - Correlation between the number of games a player plays and their median KD ratio
 - Best players based on performance metrics
 - 
-### Used Files from Data source: [[CS:GO Professional Matches](https://www.kaggle.com/datasets/mateusdmachado/csgo-professional-matches)]:
+### **Used Files from Data source: [[CS:GO Professional Matches](https://www.kaggle.com/datasets/mateusdmachado/csgo-professional-matches)]:**
 
 - `Results.csv`: Map scores and team rankings
 - `Economy.csv`: Round start equipment value for all rounds played
 - `Players.csv`: Individual performances of players on each map
 
-## How to Run the Notebook
+## **How to Run the Notebook**
 
 To run the notebook, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository:**
     ```sh
     git clone https://github.com/yourusername/csgo-matches-analysis.git
     ```
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
     ```sh
     cd csgo-matches-analysis
     ```
-3. Install the required dependencies:
+3. **Install the required dependencies:**
     ```sh
     pip install -r requirements.txt
     ```
-4. Start Jupyter Notebook:
+4. **Start Jupyter Notebook:**
     ```sh
     jupyter notebook
     ```
-5. Open the `csgo_matches_analysis.ipynb` notebook and run the cells.
+5. **Open the `csgo_matches_analysis.ipynb` notebook and run the cells.**
 
-## Requirements
+## **Requirements**
 
 - Python 3.x
 - Jupyter Notebook
@@ -50,13 +50,13 @@ To run the notebook, follow these steps:
 - seaborn
 - scipy
 
-## License
+## **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.MIT) file for details.
 
 
 
-## Contacts
+## **Contacts**
 Author: Iurii Koshelenko
 [email](koshelenkoyura@gmail.com)
 
